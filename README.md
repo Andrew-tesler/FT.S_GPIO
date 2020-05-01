@@ -2,6 +2,7 @@
 ## Introduction
 
 ![](https://img.shields.io/github/last-commit/Andrew-tesler/FT.S_GPIO?style=for-the-badge)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Andrew-tesler/FT.S_GPIO?style=for-the-badge)
 
 
 Please follow Readme.pdf document for overall system description. [README](https://github.com/Andrew-tesler/FT.S_GPIO/blob/master/README.pdf)
