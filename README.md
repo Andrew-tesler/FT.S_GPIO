@@ -18,16 +18,19 @@ https://os.mbed.com/docs/mbed-os/v5.15/tools/manual-installation.html
 https://www.st.com/en/development-tools/stm32cubeprog.html
 
 3. Clone the repository
-
+```
     git clone https://github.com/Andrew-tesler/FT.S_GPIO.git
+```
 
 4. Update the repo to the latest mbed os version
-
+```
     mbed update
+```
 
 5. compile
-
+```
     mbed compile -m NUCLEO_F429ZI -t GCC_ARM
+```
 
 6. Using STM32Cube flash the program (windows) 'Add Linux'
 
