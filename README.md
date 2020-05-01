@@ -34,6 +34,10 @@ https://www.st.com/en/development-tools/stm32cubeprog.html
 
 6. Using STM32Cube flash the program (windows) 'Add Linux'
 
+
+
+### Python examples
+
 ``` Python
 import serial
 
@@ -62,8 +66,3 @@ while True:
 
 ser.close()
 ```
-
-
-
-
-### Python examples
