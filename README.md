@@ -3,6 +3,8 @@
 
 Please follow Readme.pdf document for overall system description. [README](https://github.com/Andrew-tesler/FT.S_GPIO/blob/master/README.pdf)
 
+![C/C++ CI](https://github.com/Andrew-tesler/FT.S_GPIO/workflows/C/C++%20CI/badge.svg?branch=master)
+
 ### About This Repository
 This repository is for Tensor FT.S_GPIO Add On Tel board, It contains Software, Hardware and example use cases for the board.
 The following document will emphasize on building and using the repository, with some examples for the product.
